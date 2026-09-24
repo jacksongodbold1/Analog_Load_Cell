@@ -1,0 +1,1 @@
+This project was a school project I did in 2025. We created a scale using fundamental parts like a load cell, amplifier, and rp2040 microcontroller. I was one of the few to get it actually working, although it wasn't perfect. This is my work.
